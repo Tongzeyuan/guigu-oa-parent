@@ -20,7 +20,7 @@
         <module>service-oa</module>
     </modules>
 
-
+    <!--hot-fix添加-->
     <properties>
         <java.version>1.8</java.version>
         <mybatis-plus.version>3.4.1</mybatis-plus.version>
